@@ -21,7 +21,7 @@
         "visibility": "visible",
         "inputs": null,
         "displayOnly": true,
-        "formId": 5,
+        "formId": 1,
         "description": "Use Bootstrap column classes for your layout.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -61,7 +61,7 @@
         "errorMessage": "",
         "visibility": "visible",
         "inputs": null,
-        "formId": 5,
+        "formId": 1,
         "description": "",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -104,7 +104,7 @@
         "visibility": "visible",
         "inputs": null,
         "phoneFormat": "international",
-        "formId": 5,
+        "formId": 1,
         "description": "",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -147,7 +147,7 @@
         "visibility": "visible",
         "inputs": null,
         "placeholder": "http:\/\/",
-        "formId": 5,
+        "formId": 1,
         "description": "",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -187,7 +187,7 @@
         "errorMessage": "",
         "visibility": "visible",
         "inputs": null,
-        "formId": 5,
+        "formId": 1,
         "description": "",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -249,7 +249,7 @@
             "price": ""
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -327,7 +327,7 @@
             "name": ""
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -370,7 +370,7 @@
         "visibility": "visible",
         "inputs": null,
         "displayOnly": true,
-        "formId": 5,
+        "formId": 1,
         "description": "Gravity Forms sizes are linked to Bootstrap sizes.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -410,7 +410,7 @@
         "errorMessage": "",
         "visibility": "visible",
         "inputs": null,
-        "formId": 5,
+        "formId": 1,
         "description": "This is a small text-field",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -454,7 +454,7 @@
         "errorMessage": "",
         "visibility": "visible",
         "inputs": null,
-        "formId": 5,
+        "formId": 1,
         "description": "This is a standard text-field",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -498,7 +498,7 @@
         "errorMessage": "",
         "visibility": "visible",
         "inputs": null,
-        "formId": 5,
+        "formId": 1,
         "description": "This is a large text-field",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -562,7 +562,7 @@
             "price": ""
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "This is a small select field.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -623,7 +623,7 @@
             "price": ""
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "This is a standard select field.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -684,7 +684,7 @@
             "price": ""
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "This is a large select field.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -725,7 +725,7 @@
         "errorMessage": "",
         "visibility": "visible",
         "inputs": null,
-        "formId": 5,
+        "formId": 1,
         "description": "This is a small textarea field.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -767,7 +767,7 @@
         "errorMessage": "",
         "visibility": "visible",
         "inputs": null,
-        "formId": 5,
+        "formId": 1,
         "description": "This is a standard textarea field.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -809,7 +809,7 @@
         "errorMessage": "",
         "visibility": "visible",
         "inputs": null,
-        "formId": 5,
+        "formId": 1,
         "description": "This is a large textarea field.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -842,6 +842,48 @@
         "inputMaskIsCustom": ""
       },
       {
+        "type": "page",
+        "id": 83,
+        "label": "",
+        "adminLabel": "",
+        "isRequired": false,
+        "size": "medium",
+        "errorMessage": "",
+        "visibility": "visible",
+        "inputs": null,
+        "displayOnly": true,
+        "nextButton": {
+          "type": "text",
+          "text": "Volgende",
+          "imageUrl": ""
+        },
+        "previousButton": {
+          "type": "text",
+          "text": "Vorige",
+          "imageUrl": ""
+        },
+        "formId": 1,
+        "description": "",
+        "allowsPrepopulate": false,
+        "inputMask": false,
+        "inputMaskValue": "",
+        "inputMaskIsCustom": "",
+        "maxLength": "",
+        "inputType": "",
+        "labelPlacement": "",
+        "descriptionPlacement": "",
+        "subLabelPlacement": "",
+        "placeholder": "",
+        "cssClass": "",
+        "inputName": "",
+        "noDuplicates": false,
+        "defaultValue": "",
+        "choices": "",
+        "conditionalLogic": "",
+        "productField": "",
+        "fields": ""
+      },
+      {
         "type": "section",
         "id": 11,
         "label": "Standard fields",
@@ -852,7 +894,7 @@
         "visibility": "visible",
         "inputs": null,
         "displayOnly": true,
-        "formId": 5,
+        "formId": 1,
         "description": "This section features most standard fields",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -892,7 +934,7 @@
         "errorMessage": "",
         "visibility": "visible",
         "inputs": null,
-        "formId": 5,
+        "formId": 1,
         "description": "This is a text field with description above inputs.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -936,7 +978,7 @@
         "errorMessage": "",
         "visibility": "visible",
         "inputs": null,
-        "formId": 5,
+        "formId": 1,
         "description": "This is a text field with a hidden label.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -980,7 +1022,7 @@
         "errorMessage": "",
         "visibility": "visible",
         "inputs": null,
-        "formId": 5,
+        "formId": 1,
         "description": "This is a text field that is password enabled.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -1044,7 +1086,7 @@
             "price": ""
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "This is a standard select field.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -1105,7 +1147,7 @@
             "price": ""
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "This is a select field with 'enhanced user interface' enabled.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -1183,7 +1225,7 @@
             "name": ""
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "This is a Checkboxes field with 'Select all' option enabled.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -1245,7 +1287,7 @@
             "price": ""
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "This is a Radio Buttons field with 'Other' option enabled.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -1308,7 +1350,7 @@
             "price": ""
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "This is a standard multiselect field",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -1372,7 +1414,7 @@
             "price": ""
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "This is a Multi Select field with 'enhanced user interface' enabled.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -1415,7 +1457,7 @@
         "errorMessage": "",
         "visibility": "visible",
         "inputs": null,
-        "formId": 5,
+        "formId": 1,
         "description": "",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -1446,6 +1488,48 @@
         "inputMaskIsCustom": ""
       },
       {
+        "type": "page",
+        "id": 84,
+        "label": "",
+        "adminLabel": "",
+        "isRequired": false,
+        "size": "medium",
+        "errorMessage": "",
+        "visibility": "visible",
+        "inputs": null,
+        "displayOnly": true,
+        "nextButton": {
+          "type": "text",
+          "text": "Volgende",
+          "imageUrl": ""
+        },
+        "previousButton": {
+          "type": "text",
+          "text": "Vorige",
+          "imageUrl": ""
+        },
+        "formId": 1,
+        "description": "",
+        "allowsPrepopulate": false,
+        "inputMask": false,
+        "inputMaskValue": "",
+        "inputMaskIsCustom": "",
+        "maxLength": "",
+        "inputType": "",
+        "labelPlacement": "",
+        "descriptionPlacement": "",
+        "subLabelPlacement": "",
+        "placeholder": "",
+        "cssClass": "",
+        "inputName": "",
+        "noDuplicates": false,
+        "defaultValue": "",
+        "choices": "",
+        "conditionalLogic": "",
+        "productField": "",
+        "fields": ""
+      },
+      {
         "type": "section",
         "id": 15,
         "label": "Advanced fields",
@@ -1456,7 +1540,7 @@
         "visibility": "visible",
         "inputs": null,
         "displayOnly": true,
-        "formId": 5,
+        "formId": 1,
         "description": "This sections features most advanced fields",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -1496,7 +1580,7 @@
         "errorMessage": "",
         "visibility": "visible",
         "inputs": null,
-        "formId": 5,
+        "formId": 1,
         "description": "This is an Email field.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -1551,7 +1635,7 @@
             "placeholder": "Confirm Email"
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "This is an Email field with Email Confirmation enabled.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -1673,7 +1757,7 @@
             "placeholder": "Suffix"
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "This is a name field with some fields enabled. Sub-fields are hidden.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -1794,7 +1878,7 @@
             "placeholder": "Suffix"
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "This is a name field with all fields enabled and sublabels above inputs.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -1873,7 +1957,7 @@
             "placeholder": "Country"
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "This is an address field with all fields enabled.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -1965,7 +2049,7 @@
             "isHidden": true
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "This is an address field with some fields enabled and sublabel above inputs.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -2036,7 +2120,7 @@
         ],
         "dateType": "datefield",
         "calendarIconType": "none",
-        "formId": 5,
+        "formId": 1,
         "description": "This is a Date field with sub-label placement above.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -2103,7 +2187,7 @@
         ],
         "dateType": "datedropdown",
         "calendarIconType": "none",
-        "formId": 5,
+        "formId": 1,
         "description": "This is a Date field with Date Drop Down.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -2148,7 +2232,7 @@
         "inputs": null,
         "dateType": "datepicker",
         "calendarIconType": "none",
-        "formId": 5,
+        "formId": 1,
         "description": "This is a Date field with Datepicker without icon.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -2193,7 +2277,7 @@
         "inputs": null,
         "dateType": "datepicker",
         "calendarIconType": "calendar",
-        "formId": 5,
+        "formId": 1,
         "description": "This is a Date field with Datepicker with icon.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -2254,7 +2338,7 @@
             "name": ""
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "This is a Time field with 24 hour format.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -2314,7 +2398,7 @@
             "name": ""
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "This is a Time field with 12 hour format.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -2356,7 +2440,7 @@
         "errorMessage": "",
         "visibility": "visible",
         "inputs": null,
-        "formId": 5,
+        "formId": 1,
         "description": "This is a standard file upload field",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -2399,7 +2483,7 @@
         "errorMessage": "",
         "visibility": "visible",
         "inputs": null,
-        "formId": 5,
+        "formId": 1,
         "description": "This is a file upload field with 'Multi-File Upload' enabled",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -2442,7 +2526,7 @@
         "errorMessage": "",
         "visibility": "visible",
         "inputs": null,
-        "formId": 5,
+        "formId": 1,
         "description": "This is a list field with multiple columns",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -2540,7 +2624,7 @@
             "price": ""
           }
         ],
-        "formId": 5,
+        "formId": 1,
         "description": "This is an example consent agreement. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.",
         "allowsPrepopulate": false,
         "inputMask": false,
@@ -2566,20 +2650,35 @@
         "disableQuantity": false,
         "displayAllCategories": false,
         "useRichTextEditor": false,
-        "inputMaskIsCustom": ""
+        "inputMaskIsCustom": "",
+        "inputType": ""
       }
     ],
-    "version": "2.4.10",
-    "id": 5,
+    "version": "2.4.15",
+    "id": 1,
     "useCurrentUserAsAuthor": true,
     "postContentTemplateEnabled": false,
     "postTitleTemplateEnabled": false,
     "postTitleTemplate": "",
     "postContentTemplate": "",
-    "lastPageButton": null,
-    "pagination": null,
-    "firstPageCssClass": null,
-    "nextFieldId": 83,
+    "lastPageButton": {
+      "type": "text",
+      "text": "Vorige",
+      "imageUrl": ""
+    },
+    "pagination": {
+      "type": "percentage",
+      "pages": [
+        ""
+      ],
+      "style": "blue",
+      "backgroundColor": null,
+      "color": null,
+      "display_progressbar_on_confirmation": false,
+      "progressbar_completion_text": null
+    },
+    "firstPageCssClass": "",
+    "nextFieldId": 85,
     "subLabelPlacement": "below",
     "cssClass": "gf_kitchensink",
     "enableHoneypot": true,
@@ -2663,5 +2762,5 @@
       }
     ]
   },
-  "version": "2.4.10"
+  "version": "2.4.15"
 }
