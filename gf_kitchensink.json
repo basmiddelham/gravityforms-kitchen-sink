@@ -842,48 +842,6 @@
         "inputMaskIsCustom": ""
       },
       {
-        "type": "page",
-        "id": 83,
-        "label": "",
-        "adminLabel": "",
-        "isRequired": false,
-        "size": "medium",
-        "errorMessage": "",
-        "visibility": "visible",
-        "inputs": null,
-        "displayOnly": true,
-        "nextButton": {
-          "type": "text",
-          "text": "Volgende",
-          "imageUrl": ""
-        },
-        "previousButton": {
-          "type": "text",
-          "text": "Vorige",
-          "imageUrl": ""
-        },
-        "formId": 1,
-        "description": "",
-        "allowsPrepopulate": false,
-        "inputMask": false,
-        "inputMaskValue": "",
-        "inputMaskIsCustom": "",
-        "maxLength": "",
-        "inputType": "",
-        "labelPlacement": "",
-        "descriptionPlacement": "",
-        "subLabelPlacement": "",
-        "placeholder": "",
-        "cssClass": "",
-        "inputName": "",
-        "noDuplicates": false,
-        "defaultValue": "",
-        "choices": "",
-        "conditionalLogic": "",
-        "productField": "",
-        "fields": ""
-      },
-      {
         "type": "section",
         "id": 11,
         "label": "Standard fields",
@@ -1489,7 +1447,7 @@
       },
       {
         "type": "page",
-        "id": 84,
+        "id": 83,
         "label": "",
         "adminLabel": "",
         "isRequired": false,
@@ -1568,7 +1526,7 @@
         "useRichTextEditor": false,
         "checkboxLabel": "",
         "fields": "",
-        "inputMaskIsCustom": ""
+        "inputMaskIsCustom": false
       },
       {
         "type": "email",
@@ -1590,7 +1548,7 @@
         "labelPlacement": "",
         "descriptionPlacement": "",
         "subLabelPlacement": "",
-        "placeholder": "Placeholdertext",
+        "placeholder": "Email",
         "cssClass": "col-sm-6",
         "inputName": "",
         "noDuplicates": false,
@@ -1610,7 +1568,7 @@
         "displayAllCategories": false,
         "useRichTextEditor": false,
         "checkboxLabel": "",
-        "inputMaskIsCustom": ""
+        "inputMaskIsCustom": false
       },
       {
         "type": "email",
@@ -2009,21 +1967,21 @@
             "id": "50.1",
             "label": "Street Address",
             "name": "",
-            "placeholder": "Straat",
+            "placeholder": "Street Address",
             "customLabel": "Street Address"
           },
           {
             "id": "50.2",
             "label": "Address Line 2",
             "name": "",
-            "placeholder": "",
+            "placeholder": "Address Line 2",
             "isHidden": true
           },
           {
             "id": "50.3",
             "label": "City",
             "name": "",
-            "placeholder": "Postcode",
+            "placeholder": "City",
             "isHidden": false,
             "customLabel": "City"
           },
@@ -2031,21 +1989,21 @@
             "id": "50.4",
             "label": "State \/ Province",
             "name": "",
-            "placeholder": "Plaats",
+            "placeholder": "State \/ Province",
             "customLabel": "State \/ Province"
           },
           {
             "id": "50.5",
             "label": "ZIP \/ Postal Code",
             "name": "",
-            "placeholder": "",
+            "placeholder": "ZIP \/ Postal Code",
             "isHidden": true
           },
           {
             "id": "50.6",
             "label": "Country",
             "name": "",
-            "placeholder": "",
+            "placeholder": "Country",
             "isHidden": true
           }
         ],
@@ -2084,7 +2042,7 @@
         "checkboxLabel": "",
         "fields": "",
         "displayOnly": "",
-        "inputMaskIsCustom": ""
+        "inputMaskIsCustom": false
       },
       {
         "type": "date",
@@ -2580,8 +2538,8 @@
       },
       {
         "type": "consent",
-        "checked_indicator_url": "http:\/\/sagestarter.test\/wp-content\/plugins\/gravityforms\/images\/tick.png",
-        "checked_indicator_markup": "<img src=\"http:\/\/sagestarter.test\/wp-content\/plugins\/gravityforms\/images\/tick.png\" \/>",
+        "checked_indicator_url": "https:\/\/middelham.nl\/sagestarter\/wp-content\/plugins\/gravityforms\/images\/tick.png",
+        "checked_indicator_markup": "<img src=\"https:\/\/middelham.nl\/sagestarter\/wp-content\/plugins\/gravityforms\/images\/tick.png\" \/>",
         "id": 40,
         "label": "Consent",
         "adminLabel": "",
@@ -2669,6 +2627,7 @@
     "pagination": {
       "type": "percentage",
       "pages": [
+        "",
         ""
       ],
       "style": "blue",
@@ -2678,7 +2637,7 @@
       "progressbar_completion_text": null
     },
     "firstPageCssClass": "",
-    "nextFieldId": 85,
+    "nextFieldId": 84,
     "subLabelPlacement": "below",
     "cssClass": "gf_kitchensink",
     "enableHoneypot": true,
