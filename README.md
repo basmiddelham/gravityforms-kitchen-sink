@@ -5,4 +5,4 @@ __Contributors:__ [Bas Middelham](https://github.com/basmiddelham)
 __Requires:__ WordPress, Gravity Forms.  
 __Tested up to:__ WordPress 6.2, Gravity Forms 2.7.4
 
-Check out the [demo](https://demo.middelham.nl/gravity-forms-kitchensink/).
+Check out the [demo](https://demo.middelham.nl/gravity-forms-bootstrap-5).
