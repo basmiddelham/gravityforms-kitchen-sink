@@ -1,4 +1,4 @@
-# Gravity Forms Kitchensink
+# Gravity Forms Kitchen Sink
 A form containing all fields in the Gravity Forms plugin. Intended to test [Gravity Forms Bootstrap styling](https://github.com/basmiddelham/gravityforms-bootstrap-styling) and [Gravity Forms Bootstrap Hooks](https://github.com/basmiddelham/gravityforms-bootstrap-hooks).
 
 __Contributors:__ [Bas Middelham](https://github.com/basmiddelham)  
